@@ -70,6 +70,7 @@ Open the application on your browser `127.0.0.1:8000`.
 * [Heroku](https://heroku.com)  
   
   
+  
 ## Known Bugs  
 * There are no known bugs currently but pull requests are allowed incase you spot a bug  
   
@@ -77,6 +78,7 @@ Open the application on your browser `127.0.0.1:8000`.
 If you have any question or contributions, please email me at [adelinemakokha@gmail.com]  
 
   
+
 ## License 
 
 * [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](https://github.com/adeline-pepela/Awwards-App/blob/master/LICENSE)  
