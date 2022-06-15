@@ -57,11 +57,11 @@ python manage.py makemigrations Awwards
 ```
 Open the application on your browser `127.0.0.1:8000`.  
   
- <!-- ### Api Endpoints
+ ### Api Endpoints
  * https://herokuapp.com/api/users/
  * https://herokuapp.com/api/profile/
  * https://herokuapp.com/api/posts/
-  -->
+ 
  
 ## Technology used  
   
