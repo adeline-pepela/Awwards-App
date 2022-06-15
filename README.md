@@ -63,12 +63,12 @@ Open the application on your browser `127.0.0.1:8000`.
  * https://herokuapp.com/api/posts/
  
  
-## Technology used  
+<!-- ## Technology used  
   
 * [Python3.8](https://www.python.org/)  
 * [Django 4.11](https://docs.djangoproject.com/en/2.2/)  
 * [Heroku](https://heroku.com)  
-  
+   -->
   
   
 ## Known Bugs  
