@@ -82,4 +82,4 @@ If you have any question or contributions, please email me at [adelinemakokha@gm
 ## License 
 
 * [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](https://github.com/adeline-pepela/Awwards-App/blob/master/LICENSE)  
-<!-- * Copyright (c) 2022 **Adeline Makokha** -->
+* Copyright (c) 2022 **Adeline Makokha**
